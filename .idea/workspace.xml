@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a58e6f-3ca0-40a4-9ba4-b17350c2fad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/controlstatement/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlstatement/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SwitchCaseDemo">
+  <component name="RunManager" selected="Application.Loops">
     <configuration name="FirstDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstDemo" />
       <module name="ADYPU" />
@@ -46,6 +48,19 @@
     </configuration>
     <configuration name="IFElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="controlstatement.IFElseDemo" />
+      <module name="ADYPU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controlstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlstatement.Loops" />
       <module name="ADYPU" />
       <extension name="coverage">
         <pattern>
@@ -72,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.SwitchCaseDemo" />
         <item itemvalue="Application.IFElseDemo" />
         <item itemvalue="Application.FirstDemo" />
@@ -129,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580723049672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="switch case completed.">
+      <created>1580723135718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580723135718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,33 +163,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="switch case completed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580723049586">
+    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580723135499">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1580723049586" />
-    <state width="1255" height="265" key="GridCell.Tab.0.bottom" timestamp="1580722938476">
+    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1580723135499" />
+    <state width="1255" height="383" key="GridCell.Tab.0.bottom" timestamp="1580725593046">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1580722938476" />
-    <state width="1255" height="265" key="GridCell.Tab.0.center" timestamp="1580722938475">
+    <state width="1255" height="383" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1580725593046" />
+    <state width="1255" height="383" key="GridCell.Tab.0.center" timestamp="1580725593044">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1580722938475" />
-    <state width="1255" height="265" key="GridCell.Tab.0.left" timestamp="1580722938474">
+    <state width="1255" height="383" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1580725593044" />
+    <state width="1255" height="383" key="GridCell.Tab.0.left" timestamp="1580725593044">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1580722938474" />
-    <state width="1255" height="265" key="GridCell.Tab.0.right" timestamp="1580722938475">
+    <state width="1255" height="383" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1580725593044" />
+    <state width="1255" height="383" key="GridCell.Tab.0.right" timestamp="1580725593045">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1580722938475" />
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580718329620">
+    <state width="1255" height="383" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1580725593045" />
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580723152146">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1580718329620" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580723058806">
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1580723152146" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580723143496">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1580723058806" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1580723143496" />
   </component>
 </project>
