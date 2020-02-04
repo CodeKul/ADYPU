@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a58e6f-3ca0-40a4-9ba4-b17350c2fad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/keywords/ThisKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywords/ThisKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/constructor/ConstructorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/constructor/ConstructorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/keywords/ContinueKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/keywords/ContinueKey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/keywords/StaticKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/keywords/StaticKey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructor/ConstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/ConstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/keywords/ThisKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/keywords/ThisKey.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ThisKey">
+  <component name="RunManager" selected="Application.ArrayDemo">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ArrayDemo" />
+      <module name="ADYPU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructor.ConstructorDemo" />
       <module name="ADYPU" />
@@ -63,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlstatement.Loops" />
-      <module name="ADYPU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.ThisKey" />
         <item itemvalue="Application.ConstructorDemo" />
         <item itemvalue="Application.StaticKey" />
         <item itemvalue="Application.ContinueKey" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580795426342</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="this key completed.">
+      <created>1580805454880</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580805454880</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,47 +247,48 @@
     <MESSAGE value="loops completed." />
     <MESSAGE value="continue,static completed." />
     <MESSAGE value="Constructor completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor completed." />
+    <MESSAGE value="this key completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="this key completed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580795426254">
+    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580805454753">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580795426254" />
+    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580805454753" />
     <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1580726035520" />
-    <state width="1255" height="265" key="GridCell.Tab.0.bottom" timestamp="1580804949396">
+    <state width="1255" height="350" key="GridCell.Tab.0.bottom" timestamp="1580806779615">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.bottom/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580804949396" />
+    <state width="1255" height="350" key="GridCell.Tab.0.bottom/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580806779615" />
     <state width="1255" height="383" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1580726124322" />
-    <state width="1255" height="265" key="GridCell.Tab.0.center" timestamp="1580804949395">
+    <state width="1255" height="350" key="GridCell.Tab.0.center" timestamp="1580806779615">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.center/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580804949395" />
+    <state width="1255" height="350" key="GridCell.Tab.0.center/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580806779615" />
     <state width="1255" height="383" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1580726124321" />
-    <state width="1255" height="265" key="GridCell.Tab.0.left" timestamp="1580804949395">
+    <state width="1255" height="350" key="GridCell.Tab.0.left" timestamp="1580806779615">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.left/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580804949395" />
+    <state width="1255" height="350" key="GridCell.Tab.0.left/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580806779615" />
     <state width="1255" height="383" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1580726124320" />
-    <state width="1255" height="265" key="GridCell.Tab.0.right" timestamp="1580804949396">
+    <state width="1255" height="350" key="GridCell.Tab.0.right" timestamp="1580806779615">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="265" key="GridCell.Tab.0.right/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580804949396" />
+    <state width="1255" height="350" key="GridCell.Tab.0.right/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580806779615" />
     <state width="1255" height="383" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1580726124321" />
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580795441771">
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1580805486656">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580795441771" />
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580805486656" />
     <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1580726057151" />
     <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580789842153">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580789842153" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580795434165">
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580805465406">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580795434165" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580805465406" />
     <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1580726048165" />
   </component>
 </project>
