@@ -5,6 +5,8 @@ import keywords.StaticKey;
 public class ConstructorDemo {
 
    private ConstructorDemo(){
+        //"DYPATILCOLLEGE"
+
         System.out.println("default Constructor");
     }
 
