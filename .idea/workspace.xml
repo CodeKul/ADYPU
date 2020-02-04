@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a58e6f-3ca0-40a4-9ba4-b17350c2fad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/constructor/ConstructorDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ConstructorDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywords/ContinueKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/keywords/ContinueKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/keywords/StaticKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/keywords/StaticKey.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580793197453</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Constructor completed.">
+      <created>1580794885503</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580794885503</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,13 +223,14 @@
     <MESSAGE value="switch case completed." />
     <MESSAGE value="loops completed." />
     <MESSAGE value="continue,static completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="continue,static completed." />
+    <MESSAGE value="Constructor completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor completed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580793197227">
+    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580794885398">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580793197227" />
+    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580794885398" />
     <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1580726035520" />
     <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1580794131023">
       <screen x="65" y="24" width="1301" height="744" />
@@ -257,10 +261,10 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580789842153" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580793213034">
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580794896486">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580793213034" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580794896486" />
     <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1580726048165" />
   </component>
 </project>
