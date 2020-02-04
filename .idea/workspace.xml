@@ -227,10 +227,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Constructor completed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580794885398">
+    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1580795398310">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580794885398" />
+    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580795398310" />
     <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1580726035520" />
     <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1580794131023">
       <screen x="65" y="24" width="1301" height="744" />
@@ -261,10 +261,10 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580789842153" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580794896486">
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1580795405141">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580794896486" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580795405141" />
     <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1580726048165" />
   </component>
 </project>
