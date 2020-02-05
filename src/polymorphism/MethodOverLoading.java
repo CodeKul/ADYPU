@@ -1,9 +1,9 @@
 package polymorphism;
 
 public class MethodOverLoading {
-
+    int a=100;
     MethodOverLoading(){
-
+        System.out.println("Inside Parent class constructor");
     }
 
     MethodOverLoading(int a){
