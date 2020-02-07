@@ -1,5 +1,9 @@
 package exceptionhandling;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+
 public class ExceptionDemo {
 
     private void checkArithmeticException(){
@@ -21,20 +25,38 @@ public class ExceptionDemo {
             int length = s.length();
             System.out.println(length);
         }
-        catch (Exception e){
+        catch (NullPointerException e){
             System.out.println(e);
+        }
+        finally {
+            System.out.println("Inside finally block");
         }
         restOfTheCode();
         }
 
+        private void checkException() throws IOException {
+
+            File file=new File("/home/rajan/Desktop/ADYPU");
+            FileInputStream inputStream=new FileInputStream(file);
+        }
+
+
     private void restOfTheCode(){
-        System.out.println("Rest of the code");
+        throw new ArithmeticException("not allowed");
+       // System.out.println("Rest of the code");
     }
 
     public static void main(String[] args) {
 
         ExceptionDemo demo=new ExceptionDemo();
-        demo.checkNullPointerException();
+        demo.restOfTheCode();
+       /* try {
+            demo.checkException();
+        }
+        catch (IOException e){
+
+        }*/
+
 
     }
 
