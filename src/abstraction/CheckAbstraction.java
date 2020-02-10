@@ -2,7 +2,7 @@ package abstraction;
 
 public class CheckAbstraction extends AbstractDemo implements InterfaceDemo {
     @Override//annotation
-    void showData() {
+    public void showData() {
         System.out.println("inside show data.");
     }
 

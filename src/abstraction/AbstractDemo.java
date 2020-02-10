@@ -2,7 +2,7 @@ package abstraction;
 
 public abstract class AbstractDemo {
 
-   abstract void showData();
+   public abstract void showData();
 
    void getData(){
        System.out.println("Abstract class");
