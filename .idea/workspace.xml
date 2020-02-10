@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a58e6f-3ca0-40a4-9ba4-b17350c2fad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/encapsulation/CheckEncapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/encapsulation/EncapsulationDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/innerclasses/AnonymousInnerClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ADYPU/innerclasses/AnonymousInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/CheckEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/EncapsulationDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/abstraction/AbstractDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/abstraction/AbstractDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ADYPU/abstraction/CheckAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ADYPU/abstraction/CheckAbstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mcqtest/Javatest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +48,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MethodInnerClass">
+  <component name="RunManager" selected="Application.CheckEncapsulation">
+    <configuration name="CheckEncapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.CheckEncapsulation" />
+      <module name="ADYPU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.CheckString" />
       <module name="ADYPU" />
@@ -92,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringBufferBuilder" />
-      <module name="ADYPU" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckEncapsulation" />
         <item itemvalue="Application.MethodInnerClass" />
         <item itemvalue="Application.MemberInnerClass" />
         <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.CheckString" />
-        <item itemvalue="Application.StringBufferBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581315655803</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="exam url">
+      <created>1581322552199</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1581322552199</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -390,60 +406,61 @@
     <MESSAGE value="Member Inner class completed." />
     <MESSAGE value="practice programs." />
     <MESSAGE value="inner classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="inner classes." />
+    <MESSAGE value="exam url" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam url" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="528" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1581314720137">
+    <state x="528" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1581327793539">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="528" y="102" key="#com.intellij.ide.util.MemberChooser/65.24.1301.744@65.24.1301.744" timestamp="1581314720137" />
-    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1581315655569">
+    <state x="528" y="102" key="#com.intellij.ide.util.MemberChooser/65.24.1301.744@65.24.1301.744" timestamp="1581327793539" />
+    <state x="299" y="24" key="CommitChangelistDialog2" timestamp="1581322551911">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580810814428" />
-    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1581315655569" />
-    <state width="1255" height="178" key="GridCell.Tab.0.bottom" timestamp="1581314071900">
+    <state x="299" y="24" key="CommitChangelistDialog2/65.24.1301.744@65.24.1301.744" timestamp="1581322551911" />
+    <state width="1255" height="294" key="GridCell.Tab.0.bottom" timestamp="1581328188761">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state width="1255" height="287" key="GridCell.Tab.0.bottom/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580811779286" />
-    <state width="1255" height="178" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1581314071900" />
-    <state width="1255" height="178" key="GridCell.Tab.0.center" timestamp="1581314071900">
+    <state width="1255" height="294" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1581328188761" />
+    <state width="1255" height="294" key="GridCell.Tab.0.center" timestamp="1581328188760">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state width="1255" height="287" key="GridCell.Tab.0.center/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580811779286" />
-    <state width="1255" height="178" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1581314071900" />
-    <state width="1255" height="178" key="GridCell.Tab.0.left" timestamp="1581314071900">
+    <state width="1255" height="294" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1581328188760" />
+    <state width="1255" height="294" key="GridCell.Tab.0.left" timestamp="1581328188759">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state width="1255" height="287" key="GridCell.Tab.0.left/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580811779286" />
-    <state width="1255" height="178" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1581314071900" />
-    <state width="1255" height="178" key="GridCell.Tab.0.right" timestamp="1581314071900">
+    <state width="1255" height="294" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1581328188759" />
+    <state width="1255" height="294" key="GridCell.Tab.0.right" timestamp="1581328188760">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state width="1255" height="287" key="GridCell.Tab.0.right/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580811779286" />
-    <state width="1255" height="178" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1581314071900" />
+    <state width="1255" height="294" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1581328188760" />
     <state x="209" y="24" key="SettingsEditor" timestamp="1580879717137">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1580879717137" />
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581315691778">
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2" timestamp="1581322570759">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580810918419" />
-    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1581315691778" />
-    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581322413903">
+    <state x="315" y="119" key="Vcs.Push.Dialog.v2/65.24.1301.744@65.24.1301.744" timestamp="1581322570759" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1581326979797">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580789842153" />
-    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1581322413903" />
+    <state x="376" y="211" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1581326979797" />
     <state x="164" y="96" width="1103" height="573" key="dock-window-1" timestamp="1580977181196">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="164" y="96" width="1103" height="573" key="dock-window-1/65.24.1301.744@65.24.1301.744" timestamp="1580977181196" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1581315662495">
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog" timestamp="1581322558663">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744/65.24.1301.744@65.24.1301.744" timestamp="1580810901351" />
-    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1581315662495" />
+    <state x="409" y="177" key="git4idea.merge.GitPullDialog/65.24.1301.744@65.24.1301.744" timestamp="1581322558663" />
   </component>
 </project>
